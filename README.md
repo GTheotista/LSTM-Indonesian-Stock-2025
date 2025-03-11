@@ -60,9 +60,11 @@ The model was evaluated using multiple metrics:
 - **Directional Accuracy (DA) was chosen as the primary metric** for investment decisions, as predicting the correct movement (up/down) is more relevant than minimizing absolute errors.
 
 ### **5. Results & Conclusion**
-- The **stocks BBCA.JK and TLKM.JK showed an upward trend**, making them more favorable for investment.
-- **ANTM.JK exhibited a declining trend**, suggesting lower investment potential.
-- This model can be further improved with hyperparameter tuning, feature engineering, and the inclusion of external factors such as market indices or economic indicators.
+Based on the prediction results, the top three stocks with the lowest MAPE and highest Directional Accuracy (DA) are BBCA, KLBF, and ANTM.
+- **BBCA** is the most reliable choice, with the lowest prediction error and strong trend consistency.
+- **KLBF** follows closely, showing stable growth potential.
+- **ANTM** also demonstrates a positive trend but with slightly higher prediction error.
+This model can be further improved with hyperparameter tuning, feature engineering, and the inclusion of external factors such as market indices or economic indicators.
 
 ---
 **Author:** [Your Name]

@@ -64,8 +64,9 @@ Based on the prediction results, the top three stocks with the lowest MAPE and h
 - **BBCA** is the most reliable choice, with the lowest prediction error and strong trend consistency.
 - **KLBF** follows closely, showing stable growth potential.
 - **ANTM** also demonstrates a positive trend but with slightly higher prediction error.
+- 
 This model can be further improved with hyperparameter tuning, feature engineering, and the inclusion of external factors such as market indices or economic indicators.
 
 ---
-**Author:** [Your Name]
+**Author:** [Giovanny Theotista]
 

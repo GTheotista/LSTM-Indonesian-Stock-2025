@@ -61,9 +61,9 @@ The model was evaluated using multiple metrics:
 
 ### **5. Results & Conclusion**
 Based on the prediction results, the top three stocks with the lowest MAPE and highest Directional Accuracy (DA) are BBCA, KLBF, and ANTM.
-- **BBCA** is the most reliable choice, with the lowest prediction error and strong trend consistency.
-- **KLBF** follows closely, showing stable growth potential.
-- **ANTM** also demonstrates a positive trend but with slightly higher prediction error.
+- **KLBF** is the most reliable choice, with the lowest MAPE of 3.40% and strong trend consistency.
+- **BBCA** follows closely, showing stable growth potential with a MAPE of 1.73%.
+- **ACES** demonstrates a relatively constant trend with a MAPE of 2.50%, indicating limited growth potential.
 
 This model can be further improved with hyperparameter tuning, feature engineering, and the inclusion of external factors such as market indices or economic indicators.
 
